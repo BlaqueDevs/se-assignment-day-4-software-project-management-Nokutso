@@ -15,7 +15,7 @@
 
       If a project spends too much, it can cause big problems like running out of money, delays, or even failure. Staying within budget helps keep things running smoothly, makes clients happy, and ensures the project gets finished.
 
-      To avoid budget overrruns:
+      To avoid budget overruns:
       • Making a budget plan to outline the costs of everything that needs money
       • Use tools to check how much money is being used and make changes if needed.
       • Spend wisely on software, tools, and services to save money.
@@ -23,13 +23,46 @@
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 
       Waterfall: Follows a step-by-step approach. "Like a linear flow—one step finishes before the next starts."-PLP
-      Agile: Instead of one big plan, work is done in small cycles (called sprints).
+      Agile: Is flexible and allows teams to work in small cycles  (called sprints).
 
-      **Waterfall Methodolgy**
+            Waterfall Methodolgy
+      Advantages:
+      • Clear structure and planning from the start
+      • Good for projects with fixed requirements
+      • Easy to manage and document progress
+      
+      Disadvantages:
+      • Hard to make changes once the project starts
+      • Testing happens at the end, so bugs are found late
+      • Can take a long time to deliver the final product
+
+            Agile Methodology
+      Advantages: 
+      • Easier to make changes and improvements
+      • Regular testing helps find bugs early
+      • Delivers usable parts of the project faster
+
+      Disadvantages:
+      • Needs constant communication and teamwork
+      • Can be harder to plan costs and time accurately
+      • Might not work well for projects with strict rules
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
+      Agile is best in:
+      • Projects that might change
+      • Apps & Websites e.g. Making a new social media app 
+      • Startups & Creative Projects
+      • Ongoing Services
+
+      Waterfall is best in:
+      • Projects with Fixed Requirements 
+      • Government & Legal Work
+      • Building & Construction 
+      • Large Corporate Systems
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
