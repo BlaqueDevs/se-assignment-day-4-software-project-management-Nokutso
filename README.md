@@ -128,4 +128,4 @@
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
 
-      Knowing market trends helps you make better decisions about your software. It shows what people need, what other companies are doing, and what’s missing. Trends also help you choose the right features, price, and way to promote your software. Staying updated helps you make something useful, get more users, and stay ahead of others.
+      Knowing market trends helps me make better decisions about your software. I could easily just option to create a tool to check if a site is real would be a great idea. But opting to make something that has everything in one place sounds like it is a better option on my side.
